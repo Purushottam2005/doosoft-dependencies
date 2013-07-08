@@ -9,5 +9,6 @@
 		<module>doosoft-mule-dependencies</module>
 		<module>doosoft-spring-dependencies</module>
 		<module>doosoft-activiti-dependencies</module>
+		<module>doosoft-spring-android-dependencies</module>
 	</modules>
 </project>
